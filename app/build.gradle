@@ -4,7 +4,7 @@ android {
     compileSdkVersion 28
 
     defaultConfig {
-        applicationId "com.termux.api"
+        applicationId "com.linuxdroid.api"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 28
